@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 🐱
 
-<!--
-**ksenia312/ksenia312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kseniia and now I'm looking for my field in IT. 
 
-Here are some ideas to get you started:
+- I've been a frontend developer for 1 year. I use React <img src="https://user-images.githubusercontent.com/71008947/174479767-d13af19a-663f-4527-8134-00ee2cd17ab8.png" alt="drawing" width="15"/>, and I really like it (especially with <img src="https://user-images.githubusercontent.com/71008947/174479944-99f932a9-0120-4d12-893a-e60e4471f213.png" alt="drawing" width="15"/>). I wouldn't say I'm an expert, but I think I have an intermediate level.
+- I study Flutter <img src="https://user-images.githubusercontent.com/71008947/174479995-8e8b9409-c9b1-444f-acc1-0c9f40b67162.png" alt="drawing" width="15"/> now and I want to use it in my future professional activities. I'm working on a cross-platform app called Crow. I'm excited about the process, and it would be great if the audience liked it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're an HR person, here are a few facts about me.
+
+- I’m originally from Saint-Petersburg, Russia. 
+- I study at ITMO University since 2020.
+- I am not afraid to ask questions and discuss any topic. Ready to learn quickly, listen to my team and express my point of view. 
+- I love programming so much and I want to learn more.  
+- My basic languages are JS/TS, Python and Dart. I've also studied C# and R.
+- My level of English is B1+. I study it every day to improve my knowledge.
+- In my free time I play chess <img src="https://user-images.githubusercontent.com/71008947/174480520-1b78dbba-8538-4630-a9bc-4e3a38b2a87d.png" alt="drawing" width="15"/>.
