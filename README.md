@@ -16,4 +16,4 @@ If you're an HR person, here are a few facts about me.
 - In my free time I play chess <img src="https://user-images.githubusercontent.com/71008947/174480520-1b78dbba-8538-4630-a9bc-4e3a38b2a87d.png" alt="drawing" width="15"/>.
 
 
-_P.S. I left these pictures to learn how to insert pictures into markdowns_
+_P.S. I left these icons to learn how to insert pictures into markdowns_
