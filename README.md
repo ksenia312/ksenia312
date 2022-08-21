@@ -1,6 +1,6 @@
 ### Hi there 🐱
 
-I'm Kseniia and now I'm looking for my place in IT. 
+I'm Kseniia. Here's my experience  
 
 - I've been a frontend developer for 1 year. I use React <img src="https://user-images.githubusercontent.com/71008947/174482232-11c2b7b8-09c5-4e3e-a550-775d00339f0d.png" alt="drawing" width="15"/>, and I really like it (especially with <img src="https://user-images.githubusercontent.com/71008947/174479944-99f932a9-0120-4d12-893a-e60e4471f213.png" alt="drawing" width="15"/>). I wouldn't say I'm an expert, but I think I have an intermediate level.
 - I study Flutter <img src="https://user-images.githubusercontent.com/71008947/174482202-c5acd0c3-9a5d-4415-bd64-f42347660f1a.png" alt="drawing" width="15"/>  and I want to use it in my future professional activities. I've already made a few mobile apps, and I'm still doing it. I'm excited about the process and I'm looking for a job as a Flutter developer.
