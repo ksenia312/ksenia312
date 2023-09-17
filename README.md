@@ -1,6 +1,6 @@
 ## Hi there 😀
 
-### I'm [Kseniia](https://xenikii.one), here's my expierence
+### I'm [Kseniia](https://xenikii.one), here's my experience
 
 #### Introduction
 I started programming at 15, and I've been actively improving my skills ever since. I spent over a year diving into frontend development, particularly focusing on **React** <img src="https://user-images.githubusercontent.com/71008947/174482232-11c2b7b8-09c5-4e3e-a550-775d00339f0d.png" alt="drawing" width="15"/> and **Typescript**, which gave me a solid understanding of building websites. That's how I started my journey in the tech world.
