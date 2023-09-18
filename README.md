@@ -8,7 +8,7 @@ I started programming at 15, and I've been actively improving my skills ever sin
 #### Key skills 
 Currently, I work as a Full-stack Dart developer, and I have an in-depth knowledge of **Flutter** <img src="https://user-images.githubusercontent.com/71008947/174482202-c5acd0c3-9a5d-4415-bd64-f42347660f1a.png" alt="drawing" width="15"/> as well as pure Dart. I am looking to master all aspects of application development, both for mobile devices and the web. In my work, I use custom Dart packages to create modular architectures, and I also apply this language to backend development. Programming is not just my job, it's also a hobby that I really enjoy.
 
-#### About languages
+#### Languages
 I work with **Dart** now, and it has become a significant part of my programming journey. Additionally, I have experience with **JavaScript/TypeScript** and **Python**. Moreover, I have some familiarity with **C#** and **R**. 
 
 #### Other
