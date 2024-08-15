@@ -1,4 +1,5 @@
 ## Hi there 😀
+<img src="https://komarev.com/ghpvc/?username=ksenia312&color=6e1418&style=for-the-badge&label=VIEWS%20" alt="ksenia312" />
 
 ### I'm [Kseniia](https://xenikii.one), here's my experience
 
