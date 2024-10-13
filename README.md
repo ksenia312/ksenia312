@@ -9,7 +9,7 @@ I am a Flutter developer with experience in the web sector. I have 6 years of to
 ---
 Since 2020, I've been studying at ITMO University, where I'm expanding my education in the field of technology. Since 2021, I've been improving my English skills on Duolingo, reaching a B2 level. In 2023, I began my journey to learn Dutch, and while I'm still a beginner, I'm putting in a lot of effort. In my free time, I like to play **chess**<img src="https://user-images.githubusercontent.com/71008947/174480520-1b78dbba-8538-4630-a9bc-4e3a38b2a87d.png" alt="drawing" width="15"/>
 
-#### Languages
+
 ![](https://img.shields.io/badge/Dart-02599C?style=for-the-badge&logo=dart&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-6B74E1?style=for-the-badge&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Swift-FF3B29?style=for-the-badge&logo=swift&logoColor=white)
