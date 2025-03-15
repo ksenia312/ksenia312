@@ -4,7 +4,7 @@
 
 ### I'm [Kseniia](https://xenikii.one)
 
-I am a mobile developer with experience in the web sector. I have 6 years of total experience as a software engineer, 3 years with Flutter. I create both web and mobile interfaces, as well as backend structures, using Dart. I also use the Kotlin language for both work and personal projects - building Android apps natively. But most importantly, I'm a \textbf{problem solver}, and I can do anything at all
+I am a mobile developer with experience in the web sector. I have 6 years of total experience as a software engineer, 3 years with Flutter. I create both web and mobile interfaces, as well as backend structures, using Dart. I also use the Kotlin language for both work and personal projects - building Android apps natively. But most importantly, I'm a problem solver, and I can do anything at all
 
 ---
 
