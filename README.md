@@ -4,7 +4,7 @@
 
 ### I'm [Kseniia](https://xenikii.one)
 
-I am a mobile developer with experience in the web sector. I have 6 years of total experience as a software engineer, 3 years with Flutter. I create both web and mobile interfaces, as well as backend structures, using Dart. I am also learning the native languages Kotlin and Swift and enjoying expanding my expertise
+I am a mobile developer with experience in the web sector. I have 6 years of total experience as a software engineer, 3 years with Flutter. I create both web and mobile interfaces, as well as backend structures, using Dart. I also use Kotlin and Swift languages in both work and personal projects. Moreover, I create Android applications natively
 
 ---
 
