@@ -6,7 +6,6 @@
 
 I’m sick of making up the "About Me" section, so I’ve been
 - programming since 2018
-- working in IT since 2020
 - working in mobile apps since 2022
 - living in the Netherlands since 2024
 
