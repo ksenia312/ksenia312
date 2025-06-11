@@ -4,15 +4,23 @@
 
 ### I'm [Kseniia](https://xenikii.one)
 
-I am a mobile developer with experience in the web sector. I have 6 years of total experience as a software engineer, 3 years with Flutter. I create both web and mobile interfaces, as well as backend structures, using Dart. I also use the Kotlin language for both work and personal projects - building Android apps natively. But most importantly, I'm a problem solver, and I can do anything at all
+I’m sick of making up the "About Me" section, so I’ve been
+- programming since 2018
+- working in IT since 2020
+- working in mobile apps since 2022
+- living in the Netherlands since 2024
+
+I’m also
+- good at what I do
+- better at doing things than talking about them
+- always finding some kind of hyperfixation
 
 ---
 
 I code what I love and I love what I code
 
-
-![](https://img.shields.io/badge/Dart-02599C?style=for-the-badge&logo=dart&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-6B74E1?style=for-the-badge&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Dart-02599C?style=for-the-badge&logo=dart&logoColor=white)
 ![](https://img.shields.io/badge/Swift-FF3B29?style=for-the-badge&logo=swift&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-EFD81A?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Python-356D9E?style=for-the-badge&logo=python&logoColor=white)
